@@ -1,23 +1,26 @@
 # **Perfect-Portfolio**
 
-# **Description** 
+## **Description** 
 Tasked to design a functional application that displays an about me page, a contact page and a portfolio page.  Each link in the nav bar should be functional as well as the elements on the page.  The application should work over all platforms (desktop, tablet, mobile, etc.).
 
-# **Tech/Framework Used**
+## **Tech/Framework Used**
 * HTML
 * JAVASCRIPT
 * BOOTSTRAP FRAMEWORK
 
 
-# **Visuals**
+## **Visuals**
 ![alt text](https://i.paste.pics/A5672.png "Logo Title Text 1")
 ![alt text](https://i.paste.pics/A5670.png "Logo Title Text 1")
 ![alt text](https://i.paste.pics/A5674.png "Logo Title Text 1")
 
-# **Authors**
+## **Website**
+* https://liamhbradley11.github.io/perfect-portfolio/contacts.html
+
+## **Authors**
 * **Liam Bradley**
 
-# **License**
+## **License**
 MIT License
 
 Copyright (c) [2020] [Liam Bradley]
