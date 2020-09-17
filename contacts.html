@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
+  
     <title>Liam's Portfolio</title>
     <style>
     body {
@@ -26,7 +27,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="nav navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link active" href="contacts.html">Contact</a>
+              <a class="nav-link" href="contacts.html">Contact</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="portfolio.html">Portfolio</a>
@@ -40,12 +41,15 @@
 <br>
 <br>
 <br>
-<div class="container">
-  <div class="card" style="width: 40rem;">
+<br>
+<main class="container">
+  <div class="card" style="width: 75%;">
     <div class="card-body">
-      <h2 class="card-title text-info">Contact</h2>
-      <hr class="my-4">
-      <p class="card-text">
+  <section class="row">
+    <div class="col-md-12">
+      <article class="block">
+        <h1 class="block-header">Contact</h1>
+        <hr />
         <form>
           <div class="form-group">
             <label for="exampleFormControlInput1">Name</label>
@@ -60,11 +64,13 @@
               <label for="exampleFormControlTextarea1">Message</label>
               <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message" rows="3"></textarea>
             </div>
+            <button type="submit" class="btn btn-info">Submit</button>
           </form>
+      </article>
+    </div>
+  </section>
         </p>
-        </div>
-        </div>
-        </div>
+       
 
         <footer class="conatiner footer">
 
@@ -74,6 +80,6 @@
           <!-- Copyright -->
         
         </footer>
-        
+
       </body>
       </html>
