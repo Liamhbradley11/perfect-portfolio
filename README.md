@@ -10,9 +10,7 @@ Tasked to design a functional application that displays an about me page, a cont
 
 
 ## **Visuals**
-![alt text](https://i.paste.pics/A5672.png "Logo Title Text 1")
-![alt text](https://i.paste.pics/A5670.png "Logo Title Text 1")
-![alt text](https://i.paste.pics/A5674.png "Logo Title Text 1")
+![alt text](https://i.paste.pics/5bf03a1653d68e8dda140f85856e3d3a.png "Logo Title Text 1")
 
 ## **Website**
 * https://liamhbradley11.github.io/perfect-portfolio/contacts.html
