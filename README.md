@@ -6,7 +6,7 @@ Tasked to design a functional application that displays an about me page, a cont
 ## **Tech/Framework Used**
 * HTML
 * JAVASCRIPT
-* BOOTSTRAP FRAMEWORK
+* BULMA
 
 
 ## **Visuals**
